@@ -2,11 +2,11 @@
   {
     "repository"  : "device_asus_sdm660-common",
     "target_path" : "device/asus/sdm660-common",
-    "branch"      : "twelve"
+    "branch"      : "thirteen"
   }
   {
     "repository"  : "vendor_asus",
     "target_path" : "vendor/asus",
-    "branch"      : "twelve"
+    "branch"      : "thirteen"
   }
 ]
